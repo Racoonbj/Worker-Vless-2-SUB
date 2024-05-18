@@ -18,7 +18,7 @@ let addressesapi = [
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
 let addressesnotls = [
-	'www.visa.com.sg#官方优选域名',
+// zf	'www.visa.com.sg#官方优选域名',
 // zf	'www.wto.org:8080#官方优选域名',
 // zf	'www.who.int:8880#官方优选域名',
 'time.cloudflare.com:80#方方优选',
